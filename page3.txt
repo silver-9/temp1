@@ -1,0 +1,3 @@
+hello,i am page3.
+i am in rectangle in shape.
+
